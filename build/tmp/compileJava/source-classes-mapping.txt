@@ -1,8 +1,0 @@
-il/spark/application/util/MoodHolder.java
- il.spark.application.util.MoodHolder
-il/spark/application/starter/Starter.java
- il.spark.application.starter.Starter
-il/spark/application/util/JsonTransformer.java
- il.spark.application.util.JsonTransformer
-il/spark/application/Main.java
- il.spark.application.Main
